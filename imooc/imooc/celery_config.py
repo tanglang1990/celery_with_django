@@ -78,3 +78,8 @@ CELERYBEAT_SCHEDULE = {
 
 # mkdir conf
 # echo_supervisord_conf > conf/supervisord.conf
+# 然后修改和添加配置文件
+
+# 启动
+# supervisord -c conf/supervisord.conf
+# supervisorctl
