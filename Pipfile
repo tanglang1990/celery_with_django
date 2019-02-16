@@ -10,6 +10,7 @@ celery = {extras = ["redis"],version = "*"}
 django = "*"
 django-celery = "*"
 redis = "==2.10.6"
+flower = "*"
 
 [requires]
 python_version = "3.6"

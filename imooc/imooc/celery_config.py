@@ -56,3 +56,14 @@ CELERYBEAT_SCHEDULE = {
 
 # 启动定时任务命令
 # python manage.py celery beat -l INFO
+
+
+# 监控工具
+# pip install celery
+
+# celery flower --broker
+# 此外在django中可以通过：
+# python manage.py celery flower
+# python manage.py celery flower --basic_auth=ten:ten
+
+# 然后访问 http://localhost:5555/
