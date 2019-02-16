@@ -1,0 +1,145 @@
+[16/Feb/2019 07:31:52] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:31:53] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:31:59] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:32:00] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:32:00] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:32:00] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:32:01] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:32:04] "GET / HTTP/1.1" 404 77
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:31:46
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:34:24
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[16/Feb/2019 07:38:54] "GET / HTTP/1.1" 404 77
+[16/Feb/2019 07:41:52] "GET /do/ HTTP/1.1" 200 16
+[16/Feb/2019 07:42:12] "GET /do/ HTTP/1.1" 200 16
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:36:38
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+start request
+end request, start response
+start request
+end request, start response
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:49:32
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:50:04
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:51:57
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:52:27
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:53:24
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:53:38
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 07:53:49
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 08:16:50
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 08:17:24
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 16 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, djcelery, sessions.
+Run 'python manage.py migrate' to apply them.
+February 16, 2019 - 08:18:53
+Django version 2.1.7, using settings 'imooc.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.

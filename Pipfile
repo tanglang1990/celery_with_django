@@ -11,6 +11,7 @@ django = "*"
 django-celery = "*"
 redis = "==2.10.6"
 flower = "*"
+supervisor = "==3.2.0"
 
 [requires]
 python_version = "3.6"

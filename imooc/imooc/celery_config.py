@@ -67,3 +67,14 @@ CELERYBEAT_SCHEDULE = {
 # python manage.py celery flower --basic_auth=ten:ten
 
 # 然后访问 http://localhost:5555/
+
+
+
+# 进程管理 Supervisor
+
+# pipenv shell
+# pip3 install git+https://github.com/Supervisor/supervisor
+# pipenv graph
+
+# mkdir conf
+# echo_supervisord_conf > conf/supervisord.conf
